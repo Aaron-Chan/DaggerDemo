@@ -1,4 +1,4 @@
-package aaronchan.draggerdemo;
+package aaronchan.daggerdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,9 +1,9 @@
-package aaronchan.draggerdemo.di.components;
+package aaronchan.daggerdemo.di.components;
 
 import javax.inject.Singleton;
 
-import aaronchan.draggerdemo.MainActivity;
-import aaronchan.draggerdemo.di.modules.ApplicationModule;
+import aaronchan.daggerdemo.MainActivity;
+import aaronchan.daggerdemo.di.modules.ApplicationModule;
 import dagger.Component;
 
 /**

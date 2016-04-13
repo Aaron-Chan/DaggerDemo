@@ -1,4 +1,4 @@
-package aaronchan.draggerdemo;
+package aaronchan.daggerdemo;
 
 import org.junit.Test;
 

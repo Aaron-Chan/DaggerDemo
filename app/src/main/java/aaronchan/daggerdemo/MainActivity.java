@@ -1,4 +1,4 @@
-package aaronchan.draggerdemo;
+package aaronchan.daggerdemo;
 
 import android.app.Application;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.widget.Toast;
 
 import javax.inject.Inject;
 
-import aaronchan.draggerdemo.di.components.DaggerApplicationComponent;
-import aaronchan.draggerdemo.di.modules.ApplicationModule;
+import aaronchan.daggerdemo.di.components.DaggerApplicationComponent;
+import aaronchan.daggerdemo.di.modules.ApplicationModule;
 
 public class MainActivity extends AppCompatActivity {
     @Inject

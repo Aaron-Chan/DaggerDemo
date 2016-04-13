@@ -1,4 +1,4 @@
-package aaronchan.draggerdemo.di.modules;
+package aaronchan.daggerdemo.di.modules;
 
 import android.app.Application;
 

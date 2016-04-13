@@ -1,8 +1,8 @@
-package aaronchan.draggerdemo;
+package aaronchan.daggerdemo;
 
 import android.app.Application;
 
-import aaronchan.draggerdemo.di.components.ApplicationComponent;
+import aaronchan.daggerdemo.di.components.ApplicationComponent;
 
 /**
  * Created by Administrator on 2016/4/13.
